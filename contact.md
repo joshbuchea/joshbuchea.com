@@ -11,5 +11,5 @@ Please use the form below to contact me.
     <input type="text" name="name"> Name<br>
     <input type="email" name="_replyto"> Email<br>
     <textarea rows="5" name="message"></textarea><br>
-    <input type="submit" value="Send">
+    <button type="submit">Send</button>
 </form>
