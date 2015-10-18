@@ -93,6 +93,31 @@ code {
   color: #ccc;
 }
 
+/**
+ * Forms
+ */
+
+.form {
+  
+  input,
+  textarea {
+    margin-bottom: 20px;
+    padding: 1em;
+    border-radius: 4px;
+  }
+
+  textarea {
+    width: 60%;
+  }
+
+  button {
+    padding: 1em 2em;
+    font-size: 14px;
+  }
+}
+
+
+
 /*@media (min-width: 34em) {
   .masthead-title {
     float: left;
