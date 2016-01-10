@@ -7,7 +7,8 @@ A few form processing solutions for static sites ([Jekyll](https://jekyllrb.com/
 
 ### Third-party options:
 
-* [Formspree](http://formspree.io/) (Free up to 1000 submissions per month)
+* [elFormo](https://www.elformo.com/) (Free for 1500 submissions per month)
+* [FormKeep](https://formkeep.com/) ($19 per form per month)
+* [Formspree](http://formspree.io/) (Free for 1000 submissions per month)
 * [Simple Form](https://getsimpleform.com/) (Free)
-* [FormKeep](https://formkeep.com/) ($19/mo.)
-* [Wufoo](http://www.wufoo.com/) (Free & Paid Options)
+* [Wufoo](http://www.wufoo.com/) (Free for 100 submissions per month)
