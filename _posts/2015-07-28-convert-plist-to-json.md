@@ -14,8 +14,8 @@ Or go one step further and create a Service with Automator:
 {% highlight bash %}
 for f in "$@"
 do
-	filename="${f%.*}"
-	plutil -convert json "$filename".plist -o "$filename".json
+  filename="${f%.*}"
+  plutil -convert json "$filename".plist -o "$filename".json
 done
 {% endhighlight %}
 
