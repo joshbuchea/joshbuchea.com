@@ -5,7 +5,7 @@ title: Forms for Static Sites
 
 A few form processing solutions for static sites ([Jekyll](https://jekyllrb.com/), [GitHub Pages](https://pages.github.com/), etc.):
 
-### Third-party options:
+### Third-party options
 
 * [elFormo](https://www.elformo.com/) (Free for 1500 submissions per month)
 * [FormKeep](https://formkeep.com/) ($19 per form per month)
