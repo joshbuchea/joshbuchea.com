@@ -13,7 +13,7 @@ I'm the author of several applications available on the iOS App Store & Google P
 
 <!-- Network IP Address Lookup Utility -->
 
-[<img src="/public/img/app-store-badge-apple_195x60@2x.png" width="195" height="60">](https://itunes.apple.com/app/id1031729525?mt=8&at=11l7ss)
+[<img src="/public/img/app-store-badge-apple_195x60@2x.png" width="195" height="60">](https://itunes.apple.com/app/id1031729525?mt=8&at=11l7ss&ct=joshbucheadotcom)
 <br>
 
 ### App Rev
@@ -22,7 +22,7 @@ I'm the author of several applications available on the iOS App Store & Google P
 
 <!-- A simple app store sales revenue calculator. -->
 
-[<img src="/public/img/app-store-badge-apple_195x60@2x.png" width="195" height="60">](https://itunes.apple.com/app/id1034537083?mt=8&at=11l7ss)
+[<img src="/public/img/app-store-badge-apple_195x60@2x.png" width="195" height="60">](https://itunes.apple.com/app/id1034537083?mt=8&at=11l7ss&ct=joshbucheadotcom)
 
 [<img src="/public/img/app-store-badge-google_195x60@2x.png" width="195" height="60">](https://play.google.com/store/apps/details?id=com.joshbuchea.app.apprev)
 <br>
@@ -33,7 +33,7 @@ I'm the author of several applications available on the iOS App Store & Google P
 
 <!-- A simple salary and wage calculator. -->
 
-[<img src="/public/img/app-store-badge-apple_195x60@2x.png" width="195" height="60">](https://itunes.apple.com/app/id912209541?mt=8&at=11l7ss)
+[<img src="/public/img/app-store-badge-apple_195x60@2x.png" width="195" height="60">](https://itunes.apple.com/app/id912209541?mt=8&at=11l7ss&ct=joshbucheadotcom)
 
 [<img src="/public/img/app-store-badge-google_195x60@2x.png" width="195" height="60">](https://play.google.com/store/apps/details?id=com.joshbuchea.crunch)
 <br>
@@ -44,7 +44,7 @@ I'm the author of several applications available on the iOS App Store & Google P
 
 <!-- A simple gluten free ingredients reference. -->
 
-[<img src="/public/img/app-store-badge-apple_195x60@2x.png" width="195" height="60">](https://itunes.apple.com/app/id952035870?mt=8&at=11l7ss)
+[<img src="/public/img/app-store-badge-apple_195x60@2x.png" width="195" height="60">](https://itunes.apple.com/app/id952035870?mt=8&at=11l7ss&ct=joshbucheadotcom)
 
 [<img src="/public/img/app-store-badge-google_195x60@2x.png" width="195" height="60">](https://play.google.com/store/apps/details?id=com.joshbuchea.gfreeing)
 
@@ -56,4 +56,4 @@ I'm the author of several applications available on the iOS App Store & Google P
 
 <!-- A soundboard I made for musician and podcaster Jason Auer (AKA the Auer of Power). -->
 
-[<img src="/public/img/app-store-badge-apple_195x60@2x.png" width="195" height="60">](https://itunes.apple.com/app/auer-of-power-soundboard/id572835381?mt=8&at=11l7ss)
+[<img src="/public/img/app-store-badge-apple_195x60@2x.png" width="195" height="60">](https://itunes.apple.com/app/auer-of-power-soundboard/id572835381?mt=8&at=11l7ss&ct=joshbucheadotcom)
