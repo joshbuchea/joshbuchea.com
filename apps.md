@@ -3,6 +3,10 @@ layout: page
 title: Apps
 ---
 
+I'm the author of several applications available on the iOS App Store & Google Play Store. These are detailed below.
+
+<br>
+
 ### My IP
 
 <img src="/public/img/app-icon-myip_512@2x.png" width="192" height="auto">
