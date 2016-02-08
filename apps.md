@@ -3,6 +3,26 @@ layout: page
 title: Apps
 ---
 
+### My IP
+
+<img src="/public/img/app-icon-myip_512@2x.png" width="192" height="auto">
+
+<!-- Network IP Address Lookup Utility -->
+
+[<img src="/public/img/app-store-badge-apple_195x60@2x.png" width="195" height="60">](https://itunes.apple.com/app/id1031729525?mt=8&at=11l7ss)
+<br>
+
+### App Rev
+
+<img src="/public/img/app-icon-apprev_512@2x.png" width="192" height="auto">
+
+<!-- A simple app store sales revenue calculator. -->
+
+[<img src="/public/img/app-store-badge-apple_195x60@2x.png" width="195" height="60">](https://itunes.apple.com/app/id1034537083?mt=8&at=11l7ss)
+
+[<img src="/public/img/app-store-badge-google_195x60@2x.png" width="195" height="60">](https://play.google.com/store/apps/details?id=com.joshbuchea.app.apprev)
+<br>
+
 ### Crunch
 
 <img src="/public/img/app-icon-crunch_512@2x.png" width="192" height="auto">
