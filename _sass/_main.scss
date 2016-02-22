@@ -78,9 +78,7 @@ a:hover, a:focus {
 
 pre {
   overflow-x: auto;
-}
-pre code {
-  overflow-wrap: normal;
+  word-wrap: normal;
   white-space: pre;
 }
 
@@ -88,10 +86,6 @@ pre code {
   margin-left: 0;
   margin-right: 0;
 }
-
-/*code {
-  white-space: pre-wrap;
-}*/
 
 .post-date {
   margin: -.5rem 0 .5rem;
