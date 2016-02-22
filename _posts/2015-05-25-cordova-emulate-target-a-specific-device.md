@@ -5,9 +5,9 @@ title: "Cordova Emulate: Target a Specific Device"
 
 Target a specific device:
 
-````
+{% highlight bash %}
 cordova emulate ios --target="iPad-2"
-````
+{% endhighlight %}
 
 Available iOS targets (case sensitive):
 
