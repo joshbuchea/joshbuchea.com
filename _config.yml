@@ -4,8 +4,8 @@ permalink:        /:title/
 # Setup
 title:            Josh Buchea
 tagline:          Web & Mobile Developer
-url:              http://joshbuchea.com
-baseurl:          http://joshbuchea.com/
+url:              https://joshbuchea.com
+baseurl:          https://joshbuchea.com/
 
 # Assets
 #
