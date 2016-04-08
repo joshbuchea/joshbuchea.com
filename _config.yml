@@ -5,7 +5,7 @@ permalink:        /:title/
 title:            Josh Buchea
 tagline:          Software Developer
 url:              https://joshbuchea.com
-baseurl:          https://joshbuchea.com/
+baseurl:          ""
 
 # Assets
 #
