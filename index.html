@@ -3,20 +3,43 @@ layout: default
 title: Home
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-  <article class="post">
-    <h1 class="post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+<h2 class="section-title">Posts</h2>
 
-    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">
-      {{ post.date | date: '%B %d, %Y' }}
-    </time>
-
-    {{ post.content }}
-  </article>
+<div class="archive">
+  {% for post in site.posts limit:10 %}
+    <div class="archive-item">
+      <span class="post-date archive-date">{{ post.date | date: "%B %-d, %Y" }}</span>
+      <a class="archive-title" href="{{ post.url }}">{{ post.title }}</a>
+    </div>
   {% endfor %}
+</div>
+
+<h2 class="section-title">Projects</h2>
+
+<div class="projects">
+  <h3>
+    <a target="_blank" href="https://github.com/joshbuchea/HEAD">HEAD</a>
+  </h3>
+  <p>A list of everything that goes in the <head> of your document.</p>
+
+  <h3>
+    <a target="_blank" href="https://github.com/joshbuchea/awesome-app-landing-page">Awesome App Landing Page</a>
+  </h3>
+  <p>Get an awesome landing page for your iOS app in less than 30 seconds (seriously).</p>
+
+  <h3>
+    <a target="_blank" href="https://github.com/joshbuchea/wp-force-lowercase-urls">
+      WP Force Lowercase URLs
+    </a>
+  </h3>
+  <p>A single-purpose WordPress Plugin to redirect uppercase URLs to lowercase.</p>
+</div>
+
+<h2 class="section-title">Apps</h2>
+
+<div class="apps">
+  <h3>
+    <a target="_blank" href="https://itunes.apple.com/app/id1109109105?mt=8">Icon Babel</a>
+  </h3>
+  <p>Transcend language barriers with symbols</p>
 </div>
