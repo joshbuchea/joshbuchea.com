@@ -24,6 +24,13 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: -.025rem;
 }
 
+a {
+  -webkit-transition-delay: 400ms;
+    -moz-transition-delay: 400ms;
+    -o-transition-delay: 400ms;
+    transition-delay: 400ms;
+}
+
 .page-title {
   margin-bottom: 2rem;
 }
@@ -72,9 +79,24 @@ h1, h2, h3, h4, h5, h6 {
   color: #555;
 }
 
+.masthead .nav a .fa-circle {
+  color: #B2BFB9;
+  -webkit-transition: 400ms;
+    -moz-transition: 400ms;
+    -o-transition: 400ms;
+    transition: 400ms;
+}
+
+.masthead .nav a:hover .fa-circle,
+.masthead .nav a:focus .fa-circle {
+  color: #D8E2DD;
+}
+
+
+
 .masthead .nav a:hover,
 .masthead .nav a:focus {
-  color: #268bd2;
+  color: #555;
 }
 
 a:hover, a:focus {
