@@ -4,7 +4,7 @@ permalink:        /:title/
 # Setup
 title:            Josh Buchea
 tagline:          Software Developer
-url:              https://joshbuchea.com
+url:              http://joshbuchea.com
 baseurl:          ""
 
 # Assets
@@ -22,7 +22,15 @@ author:
   twitter:        https://twitter.com/joshbuchea
   github:         https://github.com/joshbuchea
   appstore:       https://itunes.apple.com/developer/joshua-buchea/id469778668?mt=8&at=11l7ss&ct=joshbucheadotcom
-  googleplay:      https://play.google.com/store/apps/developer?id=Josh+Buchea
+  googleplay:     https://play.google.com/store/apps/developer?id=Josh+Buchea
+  codepen:        http://codepen.io/joshbuchea/
+  stack-overflow: http://stackoverflow.com/users/1492782/josh-buchea
+  linkedin:       https://www.linkedin.com/in/josh-buchea-ab4a4b4b
+  instagram:      https://www.instagram.com/joshbuchea/
+  flickr:         https://www.flickr.com/photos/joshbuchea/
+  reddit:         https://www.reddit.com/user/joshbuchea/
+  medium:         https://medium.com/@joshbuchea
+  dribbble:       https://dribbble.com/joshbuchea
 
 # Custom vars
 version:          1.0.0

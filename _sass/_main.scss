@@ -76,27 +76,20 @@ a {
 
 .masthead .nav a {
   padding: 0 0.25em;
-  color: #555;
+  color: #B2BFB9;
 }
 
-.masthead .nav a .fa-circle {
-  color: #B2BFB9;
+.masthead .nav a {
+  color: #555;
   -webkit-transition: 400ms;
     -moz-transition: 400ms;
     -o-transition: 400ms;
     transition: 400ms;
 }
 
-.masthead .nav a:hover .fa-circle,
-.masthead .nav a:focus .fa-circle {
-  color: #D8E2DD;
-}
-
-
-
 .masthead .nav a:hover,
 .masthead .nav a:focus {
-  color: #555;
+  color: #C7C7C7;
 }
 
 a:hover, a:focus {
