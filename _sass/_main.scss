@@ -22,6 +22,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.1;
   color: #333;
   letter-spacing: -.025rem;
+  font-weight: 500;
 }
 
 a {
@@ -80,7 +81,7 @@ a {
 }
 
 .masthead .nav a {
-  color: #555;
+  color: #777;
   -webkit-transition: 400ms;
     -moz-transition: 400ms;
     -o-transition: 400ms;
@@ -120,6 +121,11 @@ code {
 .post-date {
   margin: 0;
   color: #ccc;
+}
+
+.page-date {
+  display: block;
+  margin-bottom: 1.7em;
 }
 
 @media (min-width: 540px) {
