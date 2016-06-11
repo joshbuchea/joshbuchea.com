@@ -26,10 +26,23 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-  -webkit-transition-delay: 400ms;
-    -moz-transition-delay: 400ms;
-    -o-transition-delay: 400ms;
-    transition-delay: 400ms;
+  -webkit-transition: all .2s ease-in-out;
+     -moz-transition: all .2s ease-in-out;
+       -o-transition: all .2s ease-in-out;
+          transition: all .2s ease-in-out;
+  border-bottom: 1px solid #ddd;
+  color: #222;
+  // line-height: 1.5em;
+}
+
+a:hover, a:focus {
+  color: #000;
+  border-bottom: 1px solid #000;
+  text-decoration: none;
+}
+
+.masthead a {
+  border-bottom: none;
 }
 
 .page-title {
@@ -91,10 +104,6 @@ a {
 .masthead .nav a:hover,
 .masthead .nav a:focus {
   color: #C7C7C7;
-}
-
-a:hover, a:focus {
-  text-decoration: none;
 }
 
 pre {
