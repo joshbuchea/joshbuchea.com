@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Remove the iOS Twitter Badge App Icon
+title: Remove the iOS Twitter Badge App Icon
 ---
 
 I get a little obsessive about clearing iOS Badge App Icons and find them to be distracting, so I prefer to disable them.
