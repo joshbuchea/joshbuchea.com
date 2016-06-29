@@ -45,6 +45,22 @@ a:hover, a:focus {
   border-bottom: none;
 }
 
+.image-wrapper {
+  max-width: 90%;
+  height: auto;
+  position: relative;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.image-wrapper img{
+  max-width: 100% !important;
+  height: auto;
+  display: block;
+  margin: 0 auto 1em;
+}
+
 .page-title {
   margin-bottom: 2rem;
 }
