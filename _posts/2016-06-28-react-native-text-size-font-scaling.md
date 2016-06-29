@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "React Native Text Size (Font Scaling)"
+title: "React Native Text Size & Font Scaling"
 category: React Native
 ---
 
