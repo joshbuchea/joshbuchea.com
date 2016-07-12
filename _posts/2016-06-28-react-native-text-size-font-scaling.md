@@ -18,44 +18,12 @@ A default behavior of `<Text>` components in React Native is to honor the `Text 
 </Text>
 ```
 
-_**Note:** As of the date of this post, font scaling isn't present in the iOS Simulator; only on a physical device. That makes it much easier to miss this during development. Also, keep in mind that when using icon fonts such as those in [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons), font scaling will also affect your icons._
-
-## Default Text Size
+_**Note:** As of the publication date of this post, font scaling behavior isn't present in the iOS Simulator; only physical devices. That makes it much easier to miss this during development. Also, keep in mind that when using icon fonts like [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons), font scaling will also affect your icons._
 
 <div class="image-wrapper">
   <img
-    src="/images/posts/react-native-ios-text-size-default.png"
-    alt="React Native Text Size Default"
-    width="300"
-  />
-</div>
-
-## Large Text Size
-
-<div class="image-wrapper">
-  <img
-    src="/images/posts/react-native-ios-text-size-large.png"
-    alt="React Native Text Size Large"
-    width="300"
-  />
-</div>
-
-## Larger Text Size
-
-<div class="image-wrapper">
-  <img
-    src="/images/posts/react-native-ios-text-size-larger.png"
-    alt="React Native Text Size Larger"
-    width="300"
-  />
-</div>
-
-## Small Text Size
-
-<div class="image-wrapper">
-  <img
-    src="/images/posts/react-native-ios-text-size-small.png"
-    alt="React Native Text Size Small"
+    src="/images/posts/react-native-font-size-text-scaling.gif"
+    alt="React Native Text Size & Font Scaling"
     width="300"
   />
 </div>
