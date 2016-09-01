@@ -52,4 +52,4 @@ xdebug.remote_autostart=true
 ## Step 3: Restart MAMP!
 
 1. Restart MAMP and Xdebug should be all set for whatever environment you use!
-2. Visit the page you desire to debug with `?XDEBUG_SESSION_START=atom.xdebug` appended to the URL.
+2. Visit the page you desire to debug with `?XDEBUG_SESSION_START=xdebug` appended to the URL.
