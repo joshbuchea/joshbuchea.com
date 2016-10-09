@@ -3,8 +3,6 @@ layout: post
 title: Enable Xdebug in MAMP for Mac
 ---
 
-# Enable Xdebug in MAMP for Mac
-
 Below are the steps necessary to enable Xdebug in MAMP (non-pro version) for Mac.
 
 ## Step 1: Determine PHP Version
