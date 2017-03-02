@@ -23,9 +23,33 @@ I use the Stars functionality to keep a list of the packages I use:
 
 ## Snippets
 
+### Selectors
+
 - ALL Selector: `*`
 - HTML Selector: `.text.html.basic` (not `.source.html`)
 - PHP Selector: `.text.html.php` (not `.source.php`)
 - CSS Selector: `.source.css`
 - JS Selector: `.source.js`
 - Markdown Selector: `.text.md`
+
+## Two-line code folding
+
+Add below code to `config.cson`:
+
+```
+".css.source":
+  editor:
+    foldEndPattern: ""
+".js.jsx.source":
+  editor:
+    foldEndPattern: ""
+".js.source":
+  editor:
+    foldEndPattern: ""
+".php.source":
+  editor:
+    foldEndPattern: ""
+".text.html.basic":
+  editor:
+    foldEndPattern: ""
+```
