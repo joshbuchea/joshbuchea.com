@@ -32,7 +32,7 @@ I use the Stars functionality to keep a list of the packages I use:
 - JS Selector: `.source.js`
 - Markdown Selector: `.text.md`
 
-## Two-line code folding
+## Show closing brace/tag when folding code blocks
 
 Add below code to `config.cson`:
 
