@@ -53,3 +53,9 @@ Add below code to `config.cson`:
   editor:
     foldEndPattern: ""
 ```
+
+## Hide Ignored Names In Tree View
+
+Hide files & directories in Tree View that match glob patterns in `Settings > Core > Ignored Names`:
+
+- `Preferences > Settings > Packages > Tree View > Hide Ignored Names`
