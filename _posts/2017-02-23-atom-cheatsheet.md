@@ -34,7 +34,7 @@ I use the Stars functionality to keep a list of the packages I use:
 
 ## Show closing brace/tag when folding code blocks
 
-Add below code to `config.cson`:
+Add below code to `~/.atom/config.cson`:
 
 ```
 ".css.source":
