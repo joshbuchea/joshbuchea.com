@@ -36,7 +36,7 @@ I use the Stars functionality to keep a list of the packages I use:
 
 Add below code to `~/.atom/config.cson`:
 
-```
+```cson
 ".css.source":
   editor:
     foldEndPattern: ""
