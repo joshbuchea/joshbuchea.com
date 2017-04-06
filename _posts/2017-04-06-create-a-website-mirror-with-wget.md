@@ -31,3 +31,6 @@ Note: In the short version you'll notice `p` twice in the flags. This is because
 | `-r --recursive`         | Turn on recursive retrieving. The default maximum depth is 5. |
 | `-l inf`                 | ‘-l 0’ is equivalent to ‘-l inf’—that is, infinite recursion |
 | `-N --timestamping`      | Turn on time-stamping |
+
+References:
+- [Wget Manual](https://www.gnu.org/software/wget/manual/wget.html)
