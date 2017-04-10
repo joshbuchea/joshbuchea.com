@@ -37,6 +37,9 @@ I use the Stars functionality to keep a list of the packages I use:
 Add below code to `~/.atom/config.cson`:
 
 ```cson
+".basic.html.text":
+  editor:
+    foldEndPattern: ""
 ".css.source":
   editor:
     foldEndPattern: ""
@@ -46,10 +49,7 @@ Add below code to `~/.atom/config.cson`:
 ".js.source":
   editor:
     foldEndPattern: ""
-".php.source":
-  editor:
-    foldEndPattern: ""
-".text.html.basic":
+".text.html.php":
   editor:
     foldEndPattern: ""
 ```
