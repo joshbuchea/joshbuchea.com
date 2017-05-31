@@ -12,8 +12,17 @@ title: Atom Cheatsheet
 - Find
   - Find File: `CMD + P`
   - Select Next: Select text, then `CMD + D`
+  - Select All: Select text, then `CMD + CTRL + G`
 - Select
   - Split into Lines: `Shift + CMD + L`
+- Packages
+  - Command Palette
+    - Toggle: `Shift + CMD + P`
+  - Symbols
+    - File Symbols: `CMD + R`
+
+- bookmarks: `CMD + F2`
+- code folding?
 
 ## Package Manager
 
