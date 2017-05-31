@@ -3,6 +3,8 @@ layout: post
 title: Atom Cheatsheet
 ---
 
+## Keyboard Shortcuts
+
 - Edit
   - Move Line Up: `CTRL + CMD + Up`
   - Move Line Down: `CTRL + CMD + Down`
