@@ -54,13 +54,13 @@ Add below code to `~/.atom/config.cson`:
 ".css.source":
   editor:
     foldEndPattern: ""
+".html.php.text":
+  editor:
+    foldEndPattern: ""
 ".js.jsx.source":
   editor:
     foldEndPattern: ""
 ".js.source":
-  editor:
-    foldEndPattern: ""
-".text.html.php":
   editor:
     foldEndPattern: ""
 ```
