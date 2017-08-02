@@ -5,7 +5,7 @@ layout: default
 <h2 class="section-title">Posts</h2>
 
 <div class="archive">
-  {% for post in site.posts limit:10 %}
+  {% for post in site.posts limit:50 %}
     <div class="archive-item">
       <span class="post-date archive-date">{{ post.date | date: "%B %-d, %Y" }}</span>
       <a class="archive-title" href="{{ post.url }}">{{ post.title }}</a>
