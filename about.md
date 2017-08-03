@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<img src="/public/img/me-avatar.jpg" width="200" height="auto">
+<img src="/public/img/josh-proq-prisma-head.jpg" width="200" height="auto">
 
 I'm Josh Buchea. I'm a web & mobile software developer based in Portland, Oregon.
 
