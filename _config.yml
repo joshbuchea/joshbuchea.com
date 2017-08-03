@@ -33,6 +33,9 @@ author:
   medium:         https://medium.com/@joshbuchea
   dribbble:       https://dribbble.com/joshbuchea
 
+# Google Analytics
+ga: UA-33680175-1
+
 # Custom vars
 version:          1.0.0
 github:
