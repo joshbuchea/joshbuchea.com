@@ -6,6 +6,7 @@
   <body>
 
     <div class="container content">
+      {% if page.url != "/" %}
       <header class="masthead">
         <h3 class="masthead-title">
           <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
@@ -19,79 +20,15 @@
           <li><a href="{{ site.baseurl }}/contact">Contact</a></li>
         </ul>
         -->
-        <ul class="nav">
-          <li>
-            <a target="_blank" href="{{ site.author.github }}">
-              <i class="fa fa-lg fa-github"></i>
-            </a>
-          </li>
-
-          <li>
-            <a target="_blank" href="{{ site.author.twitter }}">
-              <i class="fa fa-lg fa-twitter"></i>
-            </a>
-          </li>
-
-          <li>
-            <a target="_blank" href="{{ site.author.linkedin }}">
-              <i class="fa fa-lg fa-linkedin-square"></i>
-            </a>
-          </li>
-
-          <li>
-            <a target="_blank" href="{{ site.author.appstore }}">
-              <i class="fa fa-lg fa-apple"></i>
-            </a>
-          </li>
-
-          <li>
-            <a target="_blank" href="{{ site.author.googleplay }}">
-              <i class="fa fa-lg fa-android"></i>
-            </a>
-          </li>
-
-          <!-- <li>
-            <a target="_blank" href="{{ site.author.codepen }}">
-              <i class="fa fa-lg fa-codepen"></i>
-            </a>
-          </li> -->
-
-          <!-- <li>
-            <a target="_blank" href="{{ site.author.stack-overflow }}">
-              <i class="fa fa-lg fa-stack-overflow"></i>
-            </a>
-          </li> -->
-
-          <!-- <li>
-            <a target="_blank" href="{{ site.author.wordpress }}">
-              <i class="fa fa-lg fa-wordpress"></i>
-            </a>
-          </li> -->
-
-          <!-- <li>
-            <a target="_blank" href="{{ site.author.instagram }}">
-              <i class="fa fa-lg fa-instagram"></i>
-            </a>
-          </li> -->
-
-          <li>
-            <a target="_blank" href="mailto:{{ site.author.email }}">
-              <i class="fa fa-lg fa-envelope"></i>
-            </a>
-          </li>
-        </ul>
 
       </header>
+      {% endif %}
 
       <main class="main">
         {{ content }}
       </main>
 
-      <footer class="footer">
-        <small>
-          I use affiliate links when linking to <a href="https://amazon.com/?tag=buchea-20">Amazon</a> and <a href="https://itunes.apple.com/?at=11l7ss&ct=joshbucheadotcom">iTunes</a>.
-        </small>
-      </footer>
+      {% include footer.html %}
     </div>
 
 

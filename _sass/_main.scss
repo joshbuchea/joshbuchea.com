@@ -122,11 +122,11 @@ a:hover, a:focus {
 
 .masthead .nav a {
   padding: 0 0.25em;
-  color: #B2BFB9;
+  // color: #B2BFB9;
 }
 
 .masthead .nav a {
-  color: #777;
+  // color: #777;
   -webkit-transition: 400ms;
     -moz-transition: 400ms;
     -o-transition: 400ms;
@@ -135,7 +135,20 @@ a:hover, a:focus {
 
 .masthead .nav a:hover,
 .masthead .nav a:focus {
-  color: #C7C7C7;
+  // color: #C7C7C7;
+}
+
+.nav {
+  a {
+    border: none;
+  }
+}
+
+.footer {
+  h2 {
+    margin-bottom: 1.6rem;
+    text-align: center;
+  }
 }
 
 pre {
