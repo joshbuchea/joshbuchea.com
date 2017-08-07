@@ -225,3 +225,40 @@ code {
     text-align: right;
   }
 }*/
+
+/**
+ * Apps
+ */
+
+.apps {
+  text-align: center;
+
+  .app {
+    padding-bottom: 40px;
+
+    a {
+      border: none;
+    }
+
+    .app-icon img {
+      display: inline-block;
+      margin-bottom: 0;
+      border-radius: 12px;
+      border: 1px solid #ccc;
+    }
+
+    .app-name {
+      margin: .4em 0;
+    }
+  }
+
+  @media (min-width: 540px) {
+    display: flex;
+    flex-wrap: wrap;
+
+    .app {
+      padding-right: 40px;
+      max-width: 33%;
+    }
+  }
+}

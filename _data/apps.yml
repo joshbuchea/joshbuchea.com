@@ -1,0 +1,34 @@
+# Apps
+
+- name: My IP
+  desc: Network IP Address Lookup Utility
+  icon: app-icon-myip_512@2x.png
+  ios: https://itunes.apple.com/app/id1031729525?mt=8&amp;at=11l7ss&amp;ct=joshbucheadotcom
+
+- name: App Rev
+  desc: A simple app store sales revenue calculator
+  icon: app-icon-apprev_512@2x.png
+  ios: https://itunes.apple.com/app/id1031729525?mt=8&amp;at=11l7ss&amp;ct=joshbucheadotcom
+  android: https://play.google.com/store/apps/details?id=com.joshbuchea.app.apprev
+
+- name: Crunch
+  desc: A simple salary and wage calculator
+  icon: app-icon-crunch_512@2x.png
+  ios: https://itunes.apple.com/app/id912209541?mt=8&amp;at=11l7ss&amp;ct=joshbucheadotcom
+  android: https://play.google.com/store/apps/details?id=com.joshbuchea.crunch
+
+- name: GFree Ingredients
+  desc: A simple gluten free ingredients reference
+  icon: app-icon-gfree_512@2x.png
+  ios: https://itunes.apple.com/app/id952035870?mt=8&at=11l7ss&ct=joshbucheadotcom
+  android: https://play.google.com/store/apps/details?id=com.joshbuchea.gfreeing
+
+- name: Icon Babel
+  desc: Transcend language barriers with icons
+  icon: app-icon-iconbabel_512@2x.png
+  ios: https://itunes.apple.com/app/id1109109105?mt=8&at=11l7ss&ct=joshbucheadotcom
+
+- name: AOP Soundboard
+  desc: A soundboard I made for musician and podcaster Jason Auer (AKA the Auer of Power)
+  icon: app-icon-aopsb_512@2x.png
+  ios: https://itunes.apple.com/app/id572835381?mt=8&at=11l7ss&ct=joshbucheadotcom

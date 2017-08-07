@@ -1,0 +1,36 @@
+<section class="apps">
+
+  {% for app in site.data.apps %}
+  <!-- {{ app.name }} -->
+  <!-- {{ app.desc }} -->
+  <div class="app">
+    <div class="app-icon">
+      <a target="_blank" href="{{ app.ios }}">
+        <img src="/public/img/{{ app.icon }}" width="100%" height="auto">
+      </a>
+    </div>
+
+    <div class="app-name">{{ app.name }}</div>
+
+    <div class="app-links">
+      <a target="_blank" href="{{ app.ios }}">
+        <span class="fa-stack fa-lg">
+          <i class="fa fa-circle fa-stack-2x"></i>
+          <i class="fa fa-apple fa-stack-1x fa-inverse"></i>
+        </span>
+      </a>
+
+      {% if app.android %}
+      <a target="_blank" href="{{ app.android }}">
+        <span class="fa-stack fa-lg">
+          <i class="fa fa-circle fa-stack-2x"></i>
+          <i class="fa fa-android fa-stack-1x fa-inverse"></i>
+        </span>
+      </a>
+      {% endif %}
+    </div>
+  </div>
+
+  {% endfor %}
+
+</section>
