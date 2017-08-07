@@ -15,6 +15,8 @@ sass:
   style:            :compressed
 
 # About/contact
+# App Store itunes.apple.com link includes affiliate token, displays page w/ apps in browser, and attempts to open iTunes.app
+# App Store appstore.com link - unsure if possible to include affiliate token, does NOT show page w/ apps in browser, attempts to open iTunes.app
 author:
   name:           Josh Buchea
   url:            https://twitter.com/joshbuchea
