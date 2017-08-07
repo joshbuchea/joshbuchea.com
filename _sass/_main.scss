@@ -252,12 +252,18 @@ code {
     }
   }
 
-  @media (min-width: 540px) {
+  @media (min-width: 480px) {
     display: flex;
     flex-wrap: wrap;
 
     .app {
       padding-right: 40px;
+      max-width: 50%;
+    }
+  }
+
+  @media (min-width: 800px) {
+    .app {
       max-width: 33%;
     }
   }
