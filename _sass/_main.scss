@@ -168,6 +168,10 @@ code {
   border-radius: 0;
 }
 
+.page, .post {
+  margin-bottom: 0;
+}
+
 .archive-item {
   margin-bottom: 1em;
 }
@@ -247,7 +251,7 @@ code {
   text-align: center;
 
   .app {
-    padding-bottom: 40px;
+    padding-bottom: 80px;
 
     a {
       border: none;
@@ -275,9 +279,9 @@ code {
     }
   }
 
-  @media (min-width: 800px) {
-    .app {
-      max-width: 33%;
-    }
-  }
+  // @media (min-width: 800px) {
+  //   .app {
+  //     max-width: 33%;
+  //   }
+  // }
 }
