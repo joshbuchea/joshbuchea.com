@@ -3,7 +3,7 @@ layout: page
 title: Apps
 ---
 
-I'm the author of several applications available on the iOS App Store & Google Play Store. These are detailed below.
+I'm the author of several applications available on the iOS App Store & Google Play Store:
 
 <br>
 
