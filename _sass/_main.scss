@@ -279,9 +279,9 @@ code {
     }
   }
 
-  // @media (min-width: 800px) {
-  //   .app {
-  //     max-width: 33%;
-  //   }
-  // }
+  @media (min-width: 800px) {
+    .app {
+      max-width: 33%;
+    }
+  }
 }
