@@ -15,9 +15,9 @@ I'm a big fan of podcasts. Some shows in my playlist right now are: [This Week I
 
 ## Side projects
 
-- [Carbon Native](https://github.com/carbon-native/carbon-native) – React Native UI Kit
-- [Head Cheatsheet](https://github.com/joshbuchea/HEAD) – Cheatsheet for HTML `<head>` elements
-- [HTML Head Snippets](https://atom.io/packages/html-head-snippets) – [Atom](https://atom.io/) snippets package
+- [Carbon Native](https://github.com/carbon-native/carbon-native) – UI Components for building React Native apps
+- [Head Cheatsheet](https://github.com/joshbuchea/HEAD) – Cheatsheet for the \<head\> of your document
+- [HTML Head Snippets](https://atom.io/packages/html-head-snippets) – HTML \<head\> snippets for [Atom](https://atom.io/)
 - [Awesome App Landing Page](https://github.com/joshbuchea/awesome-app-landing-page) – Free iOS app landing page in 30 secs
-- [GitHub Tweet Button](https://github.com/joshbuchea/github-tweet-button) – Chrome extension that adds tweet button to GitHub
-- [WP Force Lowercase URLs](https://github.com/joshbuchea/wp-force-lowercase-urls) – Single-purpose WordPress Plugin
+- [GitHub Tweet Button](https://github.com/joshbuchea/github-tweet-button) – Add a tweet button to GitHub in Chrome
+- [WP Force Lowercase URLs](https://github.com/joshbuchea/wp-force-lowercase-urls) – Redirect uppercase URLs to lowercase in WordPress
