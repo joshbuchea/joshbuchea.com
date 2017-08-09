@@ -3,7 +3,9 @@ layout: page
 title: Apps
 ---
 
-I'm the author of several applications available on the iOS App Store & Google Play Store:
+These are some of the apps I’ve made. Enjoy!
+
+If you need help or support with one of my apps, please [contact](/contact) me.
 
 <br>
 
