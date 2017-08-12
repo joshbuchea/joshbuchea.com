@@ -5,27 +5,30 @@
 
   <body>
 
-    <div class="container content">
+
       {% if page.url != "/" %}
       <header class="masthead">
-        <h3 class="masthead-title">
-          <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
-        </h3>
-        <!--
-        <ul class="nav">
-          <li><a href="{{ site.baseurl }}/">Home</a></li>
-          <li><a href="{{ site.baseurl }}/projects">Projects</a></li>
-          <li><a href="{{ site.baseurl }}/apps">Apps</a></li>
-          <li><a href="{{ site.baseurl }}/about">About</a></li>
-          <li><a href="{{ site.baseurl }}/contact">Contact</a></li>
-        </ul>
-        -->
-
+        <div class="container">
+          <h3 class="masthead-title">
+            <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
+          </h3>
+          <!--
+          <ul class="nav">
+            <li><a href="{{ site.baseurl }}/">Home</a></li>
+            <li><a href="{{ site.baseurl }}/projects">Projects</a></li>
+            <li><a href="{{ site.baseurl }}/apps">Apps</a></li>
+            <li><a href="{{ site.baseurl }}/about">About</a></li>
+            <li><a href="{{ site.baseurl }}/contact">Contact</a></li>
+          </ul>
+          -->
+        </div>
       </header>
       {% endif %}
 
       <main class="main">
-        {{ content }}
+        <div class="container content">
+          {{ content }}
+        </div>
       </main>
 
       {% include footer.html %}

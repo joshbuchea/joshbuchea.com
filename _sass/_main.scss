@@ -16,7 +16,6 @@ html {
 body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  padding: 2rem 1.5rem;
   line-height: 1.5;
   color: #555;
   color: #333;
@@ -25,7 +24,7 @@ body {
 .container {
   max-width: 34rem;
   margin: 0 auto;
-  padding: 0;
+  padding: 2rem 1.5rem;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -88,6 +87,7 @@ a:hover, a:focus {
 
 .masthead {
   margin-bottom: 0;
+  padding: 0;
 }
 
 .masthead .masthead-title {
@@ -145,6 +145,8 @@ a:hover, a:focus {
 }
 
 .footer {
+  text-align: center;
+
   h2 {
     margin-bottom: 1.6rem;
     text-align: center;
@@ -206,11 +208,6 @@ code {
   }
 }
 
-.footer {
-  padding-top: 40px;
-  text-align: center;
-}
-
 /**
  * Forms
  */
@@ -248,6 +245,7 @@ code {
  */
 
 .apps {
+  margin-bottom: -80px;
   text-align: center;
 
   .app {
