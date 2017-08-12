@@ -8,7 +8,7 @@
 - name: App Rev
   desc: A simple app store sales revenue calculator
   icon: app-icon-apprev_512@2x.png
-  ios: https://itunes.apple.com/app/id1031729525?mt=8&amp;at=11l7ss&amp;ct=joshbucheadotcom
+  ios: https://itunes.apple.com/app/id1034537083?mt=8&amp;at=11l7ss&amp;ct=joshbucheadotcom
   android: https://play.google.com/store/apps/details?id=com.joshbuchea.app.apprev
 
 - name: Crunch
