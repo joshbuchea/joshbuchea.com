@@ -6,7 +6,11 @@
   <div class="app">
     <div class="app-icon">
       <a target="_blank" href="{{ app.ios }}">
+        {% if app.icon contains '://' %}
+        <img src="{{ app.icon }}" width="100%" height="auto">
+        {% else %}
         <img src="/public/img/{{ app.icon }}" width="100%" height="auto">
+        {% endif %}
       </a>
     </div>
 
