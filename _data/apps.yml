@@ -32,7 +32,6 @@
   desc: Kitchen sink demo app for Carbon Native UI Framework
   icon: http://is3.mzstatic.com/image/thumb/Purple30/v4/21/70/41/21704166-278a-907a-ca2e-4f526a9c3490/source/512x512bb.jpg
   ios: https://itunes.apple.com/app/id1137214677?mt=8&at=11l7ss&ct=joshbucheadotcom
-  android:
 
 - name: AOP Soundboard
   desc: A soundboard I made for musician and podcaster Jason Auer (AKA the Auer of Power)
@@ -55,10 +54,15 @@
   desc: Earthquake Tracker
   icon: http://is4.mzstatic.com/image/thumb/Purple18/v4/bc/4f/fc/bc4ffc8d-4954-b347-a4c1-7febf21344f9/source/512x512bb.jpg
   ios: https://itunes.apple.com/app/id1106694522?mt=8&at=11l7ss&ct=joshbucheadotcom
-  android:
 
 - name: "Relics: The Dawn"
   desc: Interactive story experience
   icon: http://is2.mzstatic.com/image/thumb/Purple18/v4/19/59/01/195901db-12bd-67ba-80fd-14d893e4be7d/source/512x512bb.jpg
   ios: https://itunes.apple.com/app/id1138038386?mt=8&at=11l7ss&ct=joshbucheadotcom
   android: https://play.google.com/store/apps/details?id=com.codemonkeys.catapult.achristmascarol
+
+- name: Benjamin Bunny
+  desc: Animated tale of Benjamin Bunny
+  icon: app-icon-benjaminbunny-512-rounded-min.png
+  border: clear
+  amazon: https://www.amazon.com/Animated-Tale-Benjamin-Bunny/dp/B014QDIAIK/

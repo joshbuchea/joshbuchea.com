@@ -5,30 +5,42 @@
   <!-- {{ app.desc }} -->
   <div class="app">
     <div class="app-icon">
-      <a target="_blank" href="{{ app.ios }}">
-        {% if app.icon contains '://' %}
-        <img src="{{ app.icon }}" width="100%" height="auto">
-        {% else %}
-        <img src="/public/img/{{ app.icon }}" width="100%" height="auto">
-        {% endif %}
+      <a target="_blank" href="{% if app.ios %}{{ app.ios }}{% else %}#{% endif %}">
+        <img
+          class="{% if app.border == 'clear' %}border-clear{% endif %}"
+          src="{% if app.icon contains '://' %}{{ app.icon }}{% else %}/public/img/{{ app.icon }}{% endif %}"
+          width="100%"
+          height="auto"
+        >
       </a>
     </div>
 
     <div class="app-name">{{ app.name }}</div>
 
     <div class="app-links">
+      {% if app.ios %}
       <a target="_blank" href="{{ app.ios }}">
         <span class="fa-stack fa-lg">
           <i class="fa fa-circle fa-stack-2x"></i>
           <i class="fa fa-apple fa-stack-1x fa-inverse"></i>
         </span>
       </a>
+      {% endif %}
 
       {% if app.android %}
       <a target="_blank" href="{{ app.android }}">
         <span class="fa-stack fa-lg">
           <i class="fa fa-circle fa-stack-2x"></i>
           <i class="fa fa-android fa-stack-1x fa-inverse"></i>
+        </span>
+      </a>
+      {% endif %}
+
+      {% if app.amazon %}
+      <a target="_blank" href="{{ app.amazon }}">
+        <span class="fa-stack fa-lg">
+          <i class="fa fa-circle fa-stack-2x"></i>
+          <i class="fa fa-amazon fa-stack-1x fa-inverse"></i>
         </span>
       </a>
       {% endif %}
