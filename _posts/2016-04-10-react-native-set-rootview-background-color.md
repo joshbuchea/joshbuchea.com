@@ -13,6 +13,5 @@ In the RootView of a React Native app, the default background color is white. We
 1. Open `AppDelegate.m` located in `PROJECT_DIR/ios/AppName/`
 2. Locate line that matches or is similar to:
         `rootView.backgroundColor = [[UIColor alloc] initWithRed:1.0f green:1.0f blue:1.0f alpha:1];`
-3. Adjust UIColor values
-
-[UIColor](http://uicolor.xyz/) is a handy website that can be used to convert HEX & RGB colors to UIColor for both Objective-C and Swift.
+3. Adjust UIColor values!
+  - [UIColor](http://uicolor.xyz/) is a handy website that can be used to convert HEX & RGB colors to UIColor for both Objective-C and Swift.
