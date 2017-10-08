@@ -3,4 +3,4 @@ layout: page
 title: Contact
 ---
 
-I am currently accepting projects. If you would like to get in touch, please shoot me an email at [hello@joshbuchea.com](mailto:hello@joshbuchea.com). Or let's connect through one of the options below:
+I am currently accepting projects. If you would like to get in touch, please shoot me an email at [hello@joshbuchea.com](mailto:hello@joshbuchea.com). Or reach out through one of the options below:
