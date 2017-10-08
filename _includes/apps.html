@@ -7,7 +7,7 @@
     <div class="app-icon">
       <a target="_blank" href="{% if app.ios %}{{ app.ios }}{% else %}#{% endif %}">
         <img
-          class="{% if app.border == 'clear' %}border-clear{% endif %}"
+          class="{% if app.border %}border{% endif %}"
           src="{% if app.icon contains '://' %}{{ app.icon }}{% else %}/public/img/{{ app.icon }}{% endif %}"
           width="100%"
           height="auto"

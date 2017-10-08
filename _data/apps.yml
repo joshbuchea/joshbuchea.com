@@ -5,17 +5,18 @@
   icon: app-icon-class120-512.png
   ios: https://itunes.apple.com/app/id855675817?mt=8&at=11l7ss&ct=joshbucheadotcom
   android: https://play.google.com/store/apps/details?id=com.class120.Class120
+  border: true
 
 - name: GuideOn Military
   desc: Military base navigation and information
   icon: http://is3.mzstatic.com/image/thumb/Purple69/v4/f3/50/eb/f350ebfc-597a-7c01-ff68-de378c91230d/source/512x512bb.jpg
   ios: https://itunes.apple.com/app/id904516921?mt=8&at=11l7ss&ct=joshbucheadotcom
   android: https://play.google.com/store/apps/details?id=com.followmeonedot.followmelocator
+  border: true
 
 - name: Benjamin Bunny
   desc: Animated tale of Benjamin Bunny
   icon: app-icon-benjaminbunny-512-rounded-min.png
-  border: clear
   amazon: https://www.amazon.com/Animated-Tale-Benjamin-Bunny/dp/B014QDIAIK/
 
 - name: "Relics: The Dawn"
@@ -55,6 +56,7 @@
   desc: Transcend language barriers with icons
   icon: app-icon-iconbabel_512@2x.png
   ios: https://itunes.apple.com/app/id1109109105?mt=8&at=11l7ss&ct=joshbucheadotcom
+  border: true
 
 - name: GFree Ingredients
   desc: A simple gluten free ingredients reference
