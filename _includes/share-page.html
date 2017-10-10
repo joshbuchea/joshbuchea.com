@@ -2,21 +2,34 @@
   <!-- Share via Twitter -->
   <a
     class="twitter-share-button"
+    href="https://twitter.com/share?ref_src=twsrc%5Etfw"
+    data-show-count="false"
+    data-size="large"
+    data-text="{{ page.title }}"
+    data-url="{{ site.url }}{{ page.url }}"
+    data-via="joshbuchea"
+  >
+    Tweet
+  </a>
+  <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <!-- <a
+    class="twitter-share-button"
     href="https://twitter.com/share"
     data-url="{{ site.url }}{{ page.url }}"
     data-text="{{ page.title }}"
     data-via="joshbuchea"
-    data-size="small">
+    data-size="large">
     Tweet
   </a>
   <script>
     !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
     if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';
     fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
-  </script>
+  </script> -->
   <!-- End Share via Twitter -->
 
   <!-- Share via Facebook -->
+  <!--
   <iframe
     src="https://www.facebook.com/plugins/share_button.php?href={{ site.url }}{{ page.url }}&layout=button&mobile_iframe=true&width=58&height=20&appId"
     width="58"
@@ -26,5 +39,6 @@
     frameborder="0"
     allowTransparency="true">
   </iframe>
+  -->
   <!-- End Share via Facebook -->
 </div>
