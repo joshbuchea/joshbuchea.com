@@ -3,6 +3,8 @@ html {
 }
 
 html {
+  // background: linear-gradient(#fff 50%, #000 50%);
+  background: #000;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 20px;
   line-height: 1.5;
@@ -22,7 +24,7 @@ body {
 }
 
 .container {
-  max-width: 34rem;
+  max-width: 36rem;
   margin: 0 auto;
   padding: 2rem 1.5rem;
 }
@@ -91,7 +93,7 @@ a:hover, a:focus {
 }
 
 .masthead .masthead-title {
-  margin-bottom: .5rem;
+  // margin-bottom: .5rem;
   font-size: 2rem;
 }
 
@@ -145,10 +147,13 @@ a:hover, a:focus {
 }
 
 .footer {
+  background-color: #000;
+  color: #fff;
   text-align: center;
 
   h2 {
     margin-bottom: 1.6rem;
+    color: #fff;
     text-align: center;
   }
 }
@@ -245,7 +250,7 @@ code {
  */
 
 .apps {
-  margin-bottom: -80px;
+  margin-bottom: -50px;
   text-align: center;
 
   .app {
