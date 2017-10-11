@@ -3,7 +3,8 @@
 - name: Class120 Geo
   desc: Student geo location
   icon: app-icon-class120-512.png
-  ios: https://itunes.apple.com/app/id855675817?mt=8&at=11l7ss&ct=joshbucheadotcom
+  web: https://www.nbcnews.com/nightly-news/taking-attendance-class120-app-alerts-parents-when-students-skip-class-n301951
+  # ios: https://itunes.apple.com/app/id855675817?mt=8&at=11l7ss&ct=joshbucheadotcom
   android: https://play.google.com/store/apps/details?id=com.class120.Class120
   border: true
 
@@ -17,6 +18,7 @@
 - name: Benjamin Bunny
   desc: Animated tale of Benjamin Bunny
   icon: app-icon-benjaminbunny-512-rounded-min.png
+  web: http://code-monkeys.com/wunderbooks
   amazon: https://www.amazon.com/Animated-Tale-Benjamin-Bunny/dp/B014QDIAIK/
 
 - name: "Relics: The Dawn"
@@ -67,4 +69,5 @@
 - name: CN Kitchen Sink
   desc: Kitchen sink demo app for Carbon Native UI Framework
   icon: http://is3.mzstatic.com/image/thumb/Purple30/v4/21/70/41/21704166-278a-907a-ca2e-4f526a9c3490/source/512x512bb.jpg
+  web: http://getcarbonnative.com/
   ios: https://itunes.apple.com/app/id1137214677?mt=8&at=11l7ss&ct=joshbucheadotcom
