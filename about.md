@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<img src="/public/img/josh-proq-prisma-head.jpg" width="200" height="auto" style="margin-left: auto; margin-right: auto; border-radius: 50%;">
+<!-- <img src="/public/img/josh-proq-prisma-head.jpg" width="200" height="auto" style="margin-left: auto; margin-right: auto; border-radius: 50%;"> -->
 
 Hello! I'm Josh Buchea. I live in Bend, Oregon. I build awesome websites and mobile apps.
 
