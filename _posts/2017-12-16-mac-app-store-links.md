@@ -3,7 +3,7 @@ layout: post
 title: Mac App Store Links
 ---
 
-Below is a list of Mac App Store links (`macappstore://`) I've compiled. If there's any I missed, please [let me know](/contact/)!
+Below is a list of Mac App Store link (`macappstore://`) structures I've compiled. If there's any I missed, please [let me know](/contact/)!
 
 During my testing, I found Mac App Store links work as expected in Safari and Firefox, but not Chrome. This could be due to my local config, your mileage may very.
 
