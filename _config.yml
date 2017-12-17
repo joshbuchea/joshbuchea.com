@@ -4,6 +4,7 @@ permalink:        /:title/
 # Setup
 title:            Josh Buchea
 tagline:          I build awesome websites and mobile apps
+description:      I make digital products for web & mobile
 url:              https://joshbuchea.com
 baseurl:          ""
 
