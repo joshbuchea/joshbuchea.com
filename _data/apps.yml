@@ -66,8 +66,8 @@
   ios: https://itunes.apple.com/app/id952035870?mt=8&at=11l7ss&ct=joshbucheadotcom
   android: https://play.google.com/store/apps/details?id=com.joshbuchea.gfreeing
 
-- name: CN Kitchen Sink
-  desc: Kitchen sink demo app for Carbon Native UI Framework
-  icon: http://is3.mzstatic.com/image/thumb/Purple30/v4/21/70/41/21704166-278a-907a-ca2e-4f526a9c3490/source/512x512bb.jpg
-  web: http://getcarbonnative.com/
-  ios: https://itunes.apple.com/app/id1137214677?mt=8&at=11l7ss&ct=joshbucheadotcom
+# - name: CN Kitchen Sink
+#   desc: Kitchen sink demo app for Carbon Native UI Framework
+#   icon: http://is3.mzstatic.com/image/thumb/Purple30/v4/21/70/41/21704166-278a-907a-ca2e-4f526a9c3490/source/512x512bb.jpg
+#   web: http://getcarbonnative.com/
+#   ios: https://itunes.apple.com/app/id1137214677?mt=8&at=11l7ss&ct=joshbucheadotcom
