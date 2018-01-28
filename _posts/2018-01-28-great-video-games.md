@@ -3,7 +3,7 @@ layout: post
 title: Great Video Games
 ---
 
-A list of some of my favorite video games:
+Below are some of my favorite video games:
 
 ## Atari 2600 (1977)
 
