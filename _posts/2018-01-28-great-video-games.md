@@ -43,12 +43,14 @@ Below are some of my favorite video games:
 - Shinobi
 - Spy Hunter
 - Spy vs. Spy
+- Super Contra
 - Super Mario Bros 1-3
 - The Legend of Zelda
-- Zelda 2: The Adventure of Link
+- Zelda II: The Adventure of Link
 
 ## Nintendo SNES (1990)
 
+- Contra III: The Alien Wars
 - Donkey Kong Country 1-3
 - F-Zero
 - Killer Instinct
@@ -56,7 +58,6 @@ Below are some of my favorite video games:
 - Ninja Gaiden Trilogy
 - Star Fox
 - Street Fighter 2
-- Super Contra
 - Super Mario World
 - Super Mario World 2: Yoshi's Island
 - The Legend of Zelda: A Link to the Past
