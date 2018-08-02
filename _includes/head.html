@@ -59,4 +59,10 @@
 
   <!-- Feed -->
   <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}/atom.xml">
+  
+  <!-- Fix to remove all service worker caches -->
+  caches.keys().then(function(names) {
+    for (let name of names)
+        caches.delete(name);
+  });
 </head>
