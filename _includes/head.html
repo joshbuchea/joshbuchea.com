@@ -62,9 +62,9 @@
   
   <!-- Fix to remove all service worker caches -->
   <script>
-  caches.keys().then(function(names) {
-    for (let name of names)
-        caches.delete(name);
-  });
+    caches && caches.keys().then(function(names) {
+      for (let name of names)
+          caches.delete(name);
+    });
   </script>
 </head>
