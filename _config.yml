@@ -3,10 +3,10 @@ permalink:        /:title/
 
 # Setup
 title:            Josh Buchea
-tagline:          I build awesome websites and mobile apps
-description:      I make digital products for web & mobile
-url:              https://joshbuchea.com
-baseurl:          ""
+tagline:          I make digital products for the web and mobile
+description:      I make digital products for the web and mobile
+url:              https://joshbuchea.github.io
+baseurl:          "/joshbuchea.com"
 
 # Assets
 #
