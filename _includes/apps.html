@@ -1,6 +1,7 @@
 <section class="apps">
 
-  {% for app in site.data.apps %}
+  {% for app in site.data.projects %}
+  {% if app.type == 'app' and app.display contains page.display_filter %}
   <!-- {{ app.name }} -->
   <!-- {{ app.desc }} -->
   <div class="app">
@@ -56,6 +57,7 @@
     </div>
   </div>
 
+  {% endif %}
   {% endfor %}
 
 </section>

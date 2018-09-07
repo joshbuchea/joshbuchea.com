@@ -40,10 +40,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-  -webkit-transition: all .2s ease-in-out;
-     -moz-transition: all .2s ease-in-out;
-       -o-transition: all .2s ease-in-out;
-          transition: all .2s ease-in-out;
+  -webkit-transition: all .25s ease-in-out;
+     -moz-transition: all .25s ease-in-out;
+       -o-transition: all .25s ease-in-out;
+          transition: all .25s ease-in-out;
   border-bottom: 1px solid #ddd;
   // border-bottom: 1px solid #069;
   color: #222;
@@ -157,6 +157,12 @@ a:hover, a:focus {
     color: #fff;
     text-align: center;
   }
+
+  a:focus,
+  a:hover {
+    color: #333;
+    color: #D48C4A;
+  }
 }
 
 pre {
@@ -264,12 +270,12 @@ code {
     .app-icon img {
       display: inline-block;
       margin-bottom: 0;
-      border-radius: 12px;
+      // border-radius: 12px;
       border: 1px solid transparent;
     }
 
     .app-icon .border {
-      border-color: #ccc;
+      // border-color: #ccc;
     }
 
     .app-name {

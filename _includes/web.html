@@ -1,0 +1,25 @@
+<section class="apps">
+
+  {% for app in site.data.projects %}
+  {% if app.type == 'web' and app.display contains page.display_filter %}
+  <!-- {{ app.name }} -->
+  <!-- {{ app.desc }} -->
+  <div class="app">
+    <div class="app-icon">
+      <a target="_blank" href="{% if app.web %}{{ app.web }}{% elsif app.ios %}{{ app.ios }}{% elsif app.android %}{{ app.android }}{% elsif app.amazon %}{{ app.amazon }}{% else %}#{% endif %}">
+        <img
+          class="{% if app.border %}border{% endif %}"
+          src="{% if app.icon contains '://' %}{{ app.icon }}{% else %}/public/img/{{ app.icon }}{% endif %}"
+          width="100%"
+          height="auto"
+        >
+      </a>
+    </div>
+
+    <div class="app-name">{{ app.name }}</div>
+  </div>
+
+  {% endif %}
+  {% endfor %}
+
+</section>

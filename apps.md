@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Apps
+display_filter: apps
 ---
 
 These are some of the apps I’ve made. Enjoy!
