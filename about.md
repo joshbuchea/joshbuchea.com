@@ -5,7 +5,7 @@ title: About
 
 <!-- <img src="/public/img/josh-proq-prisma-head.jpg" width="200" height="auto" style="margin-left: auto; margin-right: auto; border-radius: 50%;"> -->
 
-Hello! I'm Josh Buchea. I live in Bend, Oregon. I build awesome websites and mobile apps.
+Hello! I'm Josh Buchea. I live in Bend, Oregon. I make digital products for web and mobile.
 
 I've developed mobile applications for iOS & Android since 2011, and I've been developing for the web for over 17 years. I'm passionate about clean code and delivering great user experiences.
 
